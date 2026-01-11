@@ -1,2 +1,3 @@
-# Ignore all the ipynb checkpoins
-*.ipynb_checkpoints
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
